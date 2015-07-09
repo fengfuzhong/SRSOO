@@ -10,3 +10,10 @@ C:\Users\fengfuzhong\Source\Repos\SRSOO\SRSOO.Util\bin\Debug\Newtonsoft.Json.dll
 C:\Users\fengfuzhong\Source\Repos\SRSOO\SRSOO.Util\bin\Debug\Newtonsoft.Json.xml
 C:\Users\fengfuzhong\Source\Repos\SRSOO\SRSOO.Util\obj\Debug\SRSOO.Util.dll
 C:\Users\fengfuzhong\Source\Repos\SRSOO\SRSOO.Util\obj\Debug\SRSOO.Util.pdb
+C:\Users\fengfuzhong\Source\Repos\SRSOO5\SRSOO.Util\bin\Debug\SRSOO.Util.dll
+C:\Users\fengfuzhong\Source\Repos\SRSOO5\SRSOO.Util\bin\Debug\SRSOO.Util.pdb
+C:\Users\fengfuzhong\Source\Repos\SRSOO5\SRSOO.Util\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fengfuzhong\Source\Repos\SRSOO5\SRSOO.Util\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fengfuzhong\Source\Repos\SRSOO5\SRSOO.Util\obj\Debug\SRSOO.Util.csprojResolveAssemblyReference.cache
+C:\Users\fengfuzhong\Source\Repos\SRSOO5\SRSOO.Util\obj\Debug\SRSOO.Util.dll
+C:\Users\fengfuzhong\Source\Repos\SRSOO5\SRSOO.Util\obj\Debug\SRSOO.Util.pdb

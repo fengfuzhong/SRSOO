@@ -24,3 +24,16 @@ C:\Users\fengfuzhong\Source\Repos\SRSOO\SRSOO.SqlServerDAL\bin\Debug\SRSOO.Model
 C:\Users\fengfuzhong\Source\Repos\SRSOO\SRSOO.SqlServerDAL\bin\Debug\SRSOO.Util.pdb
 C:\Users\fengfuzhong\Source\Repos\SRSOO\SRSOO.SqlServerDAL\bin\Debug\Newtonsoft.Json.xml
 C:\Users\fengfuzhong\Source\Repos\SRSOO\SRSOO.SqlServerDAL\obj\Debug\SRSOO.SqlServerDAL.pdb
+C:\Users\fengfuzhong\Source\Repos\SRSOO5\SRSOO.SqlServerDAL\bin\Debug\SRSOO.SqlServerDAL.dll
+C:\Users\fengfuzhong\Source\Repos\SRSOO5\SRSOO.SqlServerDAL\bin\Debug\SRSOO.SqlServerDAL.pdb
+C:\Users\fengfuzhong\Source\Repos\SRSOO5\SRSOO.SqlServerDAL\bin\Debug\SRSOO.IDAL.dll
+C:\Users\fengfuzhong\Source\Repos\SRSOO5\SRSOO.SqlServerDAL\bin\Debug\SRSOO.Model.dll
+C:\Users\fengfuzhong\Source\Repos\SRSOO5\SRSOO.SqlServerDAL\bin\Debug\SRSOO.Util.dll
+C:\Users\fengfuzhong\Source\Repos\SRSOO5\SRSOO.SqlServerDAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fengfuzhong\Source\Repos\SRSOO5\SRSOO.SqlServerDAL\bin\Debug\SRSOO.IDAL.pdb
+C:\Users\fengfuzhong\Source\Repos\SRSOO5\SRSOO.SqlServerDAL\bin\Debug\SRSOO.Model.pdb
+C:\Users\fengfuzhong\Source\Repos\SRSOO5\SRSOO.SqlServerDAL\bin\Debug\SRSOO.Util.pdb
+C:\Users\fengfuzhong\Source\Repos\SRSOO5\SRSOO.SqlServerDAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fengfuzhong\Source\Repos\SRSOO5\SRSOO.SqlServerDAL\obj\Debug\SRSOO.SqlServerDAL.csprojResolveAssemblyReference.cache
+C:\Users\fengfuzhong\Source\Repos\SRSOO5\SRSOO.SqlServerDAL\obj\Debug\SRSOO.SqlServerDAL.dll
+C:\Users\fengfuzhong\Source\Repos\SRSOO5\SRSOO.SqlServerDAL\obj\Debug\SRSOO.SqlServerDAL.pdb

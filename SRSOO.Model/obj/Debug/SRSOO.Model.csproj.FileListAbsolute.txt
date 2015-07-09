@@ -6,3 +6,8 @@ C:\Users\fengfuzhong\Source\Repos\SRSOO\SRSOO.Model\bin\Debug\SRSOO.Model.dll
 C:\Users\fengfuzhong\Source\Repos\SRSOO\SRSOO.Model\bin\Debug\SRSOO.Model.pdb
 C:\Users\fengfuzhong\Source\Repos\SRSOO\SRSOO.Model\obj\Debug\SRSOO.Model.dll
 C:\Users\fengfuzhong\Source\Repos\SRSOO\SRSOO.Model\obj\Debug\SRSOO.Model.pdb
+C:\Users\fengfuzhong\Source\Repos\SRSOO5\SRSOO.Model\bin\Debug\SRSOO.Model.dll
+C:\Users\fengfuzhong\Source\Repos\SRSOO5\SRSOO.Model\bin\Debug\SRSOO.Model.pdb
+C:\Users\fengfuzhong\Source\Repos\SRSOO5\SRSOO.Model\obj\Debug\SRSOO.Model.csprojResolveAssemblyReference.cache
+C:\Users\fengfuzhong\Source\Repos\SRSOO5\SRSOO.Model\obj\Debug\SRSOO.Model.dll
+C:\Users\fengfuzhong\Source\Repos\SRSOO5\SRSOO.Model\obj\Debug\SRSOO.Model.pdb

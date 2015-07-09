@@ -12,3 +12,10 @@ C:\Users\fengfuzhong\Source\Repos\SRSOO\SRSOO.DAL\bin\Debug\SRSOO.Model.pdb
 C:\Users\fengfuzhong\Source\Repos\SRSOO\SRSOO.DAL\obj\Debug\SRSOO.IDAL.csprojResolveAssemblyReference.cache
 C:\Users\fengfuzhong\Source\Repos\SRSOO\SRSOO.DAL\obj\Debug\SRSOO.IDAL.dll
 C:\Users\fengfuzhong\Source\Repos\SRSOO\SRSOO.DAL\obj\Debug\SRSOO.IDAL.pdb
+C:\Users\fengfuzhong\Source\Repos\SRSOO5\SRSOO.DAL\bin\Debug\SRSOO.IDAL.dll
+C:\Users\fengfuzhong\Source\Repos\SRSOO5\SRSOO.DAL\bin\Debug\SRSOO.IDAL.pdb
+C:\Users\fengfuzhong\Source\Repos\SRSOO5\SRSOO.DAL\bin\Debug\SRSOO.Model.dll
+C:\Users\fengfuzhong\Source\Repos\SRSOO5\SRSOO.DAL\bin\Debug\SRSOO.Model.pdb
+C:\Users\fengfuzhong\Source\Repos\SRSOO5\SRSOO.DAL\obj\Debug\SRSOO.IDAL.csprojResolveAssemblyReference.cache
+C:\Users\fengfuzhong\Source\Repos\SRSOO5\SRSOO.DAL\obj\Debug\SRSOO.IDAL.dll
+C:\Users\fengfuzhong\Source\Repos\SRSOO5\SRSOO.DAL\obj\Debug\SRSOO.IDAL.pdb
