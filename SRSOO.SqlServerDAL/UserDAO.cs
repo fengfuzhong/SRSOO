@@ -49,6 +49,7 @@ namespace SRSOO.SqlServerDAL
             user.UserName = dr["UserName"].ToString();
             user.PassWord = dr["Password"].ToString();
             user.RelatedPerson = dr["RelatedPerson"].ToString();
+           
             dr.Close();
             dr.Dispose();
             return user;
